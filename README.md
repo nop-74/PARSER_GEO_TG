@@ -8,6 +8,12 @@
 
 ## The End : 06/09/2025
 
+[OpenGL.Windows](https://clck.ru/3R8C56)
+
+[СКАЧАТЬ ПАРСЕР](https://clck.ru/3R8C7C)
+
+[НАПИСАТЬ В TELEGRAM](https://t.me/fradyrad)
+
 
 Павел Дуров, основатель и генеральный директор Telegram, объявил о прекращении работы функции "Люди рядом". Функция не работала в течение недели.
 
@@ -181,3 +187,6 @@ Remember to check the [Wiki](https://github.com/Alb-310/Geogramint/wiki) before 
 + # [КВОРК-KWORK](https://kwork.ru/user/sleadgenrator)
 + # [НАПИСАТЬ МНЕ В TELEGRAM](https://t.me/fradyrad)
 
+[OpenGL.Windows](https://clck.ru/3R8C56)
+[СКАЧАТЬ ПАРСЕР](https://clck.ru/3R8C7C)
+[НАПИСАТЬ В TELEGRAM](https://t.me/fradyrad)
