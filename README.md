@@ -6,12 +6,17 @@
 <p align="center"> <img src="https://img.shields.io/badge/version-1.4-orange" /> <img src="https://img.shields.io/badge/PYTHON-03b1fc?style=for-the-badge&logo=python"/> <a href="https://github.com/Alb-310"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/><a/> <a href="https://twitter.com/Alb_310"> <img src="https://github.com/Alb-310/Geogramint/blob/master/.github/by-alb310.svg"/><a/> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg"/>
 <p align="center"> <a href="https://projetfox.com/"> <img src="https://github.com/Alb-310/Geogramint/blob/master/.github/fox%20badge.png" width="200"/> <a/>
 
-## The End : 06/09/2024
+## The End : 06/09/2025
 
 
 Павел Дуров, основатель и генеральный директор Telegram, объявил о прекращении работы функции "Люди рядом". Функция не работала в течение недели.
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/6315894f-7e31-4599-83e9-2e0f70f86ee5" width="400"/>
+
+# [Telegram](https://t.me/fradyrad)
+# [SOFT на PYTHON](https://t.me/python_softs)
+# [КВОРК-KWORK](https://kwork.ru/user/sleadgenrator)
+# [НАПИСАТЬ МНЕ В TELEGRAM](https://t.me/fradyrad)
 
 
 Удаление этой функции означает, что Geogramint и другие инструменты OSINT, использующие API, больше не работают. С сегодняшнего дня этот репозиторий на GitHub будет заархивирован.
@@ -171,5 +176,8 @@ Remember to check the [Wiki](https://github.com/Alb-310/Geogramint/wiki) before 
 
 ## 🙏 Thanks to:
 + My teammates at Projet FOX
-+ 
++ # [Telegram](https://t.me/fradyrad)
+# [SOFT на PYTHON](https://t.me/python_softs)
+# [КВОРК-KWORK](https://kwork.ru/user/sleadgenrator)
+# [НАПИСАТЬ МНЕ В TELEGRAM](https://t.me/fradyrad)
 
