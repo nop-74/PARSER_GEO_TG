@@ -1,4 +1,4 @@
-# **Geogramint - инструмент геолокации OSINT для Telegram**
+# **Парсер по geo локации для Telegram**
 <p align="center">
 <img src="https://github.com/Alb-310/Geogramint/blob/master/appfiles/Geogramint.png" width="300"/>
 </p>
