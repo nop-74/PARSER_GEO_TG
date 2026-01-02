@@ -1,4 +1,4 @@
-# **Geogramint - OSINT Geolocalization tool for Telegram**
+# **Geogramint - инструмент геолокации OSINT для Telegram**
 <p align="center">
 <img src="https://github.com/Alb-310/Geogramint/blob/master/appfiles/Geogramint.png" width="300"/>
 </p>
@@ -9,16 +9,16 @@
 ## The End : 06/09/2024
 
 
-Pavel Durov, the founder and CEO of Telegram, announced the discontinuation of the "People Nearby" feature. The feature has been non-functional for a week.
+Павел Дуров, основатель и генеральный директор Telegram, объявил о прекращении работы функции "Люди рядом". Функция не работала в течение недели.
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/6315894f-7e31-4599-83e9-2e0f70f86ee5" width="400"/>
 
 
-The removal of this feature means that Geogramint and other OSINT tools that utilize the API no longer work. As of today, this GitHub repository will be archived.
+Удаление этой функции означает, что Geogramint и другие инструменты OSINT, использующие API, больше не работают. С сегодняшнего дня этот репозиторий на GitHub будет заархивирован.
 
-The popularity of Geogramint began with [this Projet FOX article](https://projetfox.com/en/2022/08/geogramint-an-osint-geolocalization-tool-for-telegram/), where the tool's capabilities were demonstrated in action. It was also showcased at the International Cybersecurity Forum (FIC) in Lille, France, in 2023, which led to this [Projet FOX article](https://projetfox.com/en/2023/07/osint-russian-military-presence-in-belarus/).
+Популярность Geogramint началась с [этой статьи на Projet FOX] (https://projetfox.com/en/2022/08/geogramint-an-osint-geolocalization-tool-for-telegram/), в которой возможности этого инструмента были продемонстрированы в действии. Это также было продемонстрировано на Международном форуме по кибербезопасности (FIC) в Лилле, Франция, в 2023 году, что привело к появлению этой статьи [на Projet FOX](https://projetfox.com/en/2023/07/osint-russian-military-presence-in-belarus/).
 
-Geogramint was used by many journalists, investigators, OSINT practitioners, and others. I personally want to thank everyone who used the tool, and I hope Geogramint was helpful in your investigations!
+Geogramint использовали многие журналисты, исследователи, практики OSINT и другие. Я лично хочу поблагодарить всех, кто пользовался этим инструментом, и надеюсь, что Geogramint был полезен в ваших расследованиях!
 
 <p align="right">
 <b>- Alb310
@@ -32,13 +32,13 @@ Geogramint was used by many journalists, investigators, OSINT practitioners, and
 <a href="https://www.linkedin.com/company/projetfox">Projet FOX's LinkedIn</a>
 </p>
 
-## **About**
+## **О программе**
 
-Geogramint is an OSINT tool that uses Telegram's API to find nearby users and groups. Inspired by [Tejado's Telegram Nearby Map](https://github.com/tejado/telegram-nearby-map), which is no longer maintained, it aims to provide a more user-friendly alternative.
+Geogramint - это инструмент OSINT, который использует API Telegram для поиска близлежащих пользователей и групп. Он создан на основе [Карты близлежащих пользователей Telegram от Tejado] (https://github.com/tejado/telegram-nearby-map), которая больше не поддерживается, и призван предоставить более удобную альтернативу.
 
-Geogramint only finds Telegram users and groups which have activated the nearby feature. Per default it is deactivated.
+Geogramint находит только тех пользователей и группы Telegram, у которых активирована функция поиска поблизости. По умолчанию она отключена.
 
-The tool is fully supported on Windows and partially supported on Mac OS and Linux distributions.
+Инструмент полностью поддерживается в Windows и частично в дистрибутивах Mac OS и Linux.
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/9b06b204-b23e-4014-a84c-e4188e4d38cb" />
 
@@ -171,4 +171,5 @@ Remember to check the [Wiki](https://github.com/Alb-310/Geogramint/wiki) before 
 
 ## 🙏 Thanks to:
 + My teammates at Projet FOX
-+ [sergiombd](https://github.com/sergiombd)
++ 
+
