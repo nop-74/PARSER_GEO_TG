@@ -30,11 +30,11 @@ Geogramint использовали многие журналисты, иссл�
 </b></p>
 
 <p align="center">
-<a href="https://twitter.com/Alb_310">Twitter @Alb_310</a> | 
-<a href="https://projetfox.com/">Projet FOX's Website</a> | 
-<a href="https://twitter.com/ProjetFOX">Twitter @ProjetFOX</a> | 
-<a href="https://discord.com/invite/nxffsWBNRK">Projet FOX's Discord</a> | 
-<a href="https://www.linkedin.com/company/projetfox">Projet FOX's LinkedIn</a>
+<a href="https://kwork.ru/user/sleadgenrator">КВОРК-KWORK</a> | 
+<a href="https://t.me/fradyrad">НАПИСАТЬ МНЕ В TELEGRAM</a> | 
+<a href="https://t.me/python_softs">SOFT на PYTHON</a> | 
+<a href="https://WA.ME/79209220591">+79209220591 WHATSAPP</a> | 
+<a href="https://t.me/oplata_usl/15">ДОНАТ НА РАЗВИТИЕ КАНАЛА</a>
 </p>
 
 ## **О программе**
@@ -174,10 +174,10 @@ Remember to check the [Wiki](https://github.com/Alb-310/Geogramint/wiki) before 
 
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.fr.html)
 
-## 🙏 Thanks to:
-+ My teammates at Projet FOX
++ ## 🙏 Thanks to:
++ мОИ КОНТАКТЫ
 + # [Telegram](https://t.me/fradyrad)
-# [SOFT на PYTHON](https://t.me/python_softs)
-# [КВОРК-KWORK](https://kwork.ru/user/sleadgenrator)
-# [НАПИСАТЬ МНЕ В TELEGRAM](https://t.me/fradyrad)
++ # [SOFT на PYTHON](https://t.me/python_softs)
++ # [КВОРК-KWORK](https://kwork.ru/user/sleadgenrator)
++ # [НАПИСАТЬ МНЕ В TELEGRAM](https://t.me/fradyrad)
 
